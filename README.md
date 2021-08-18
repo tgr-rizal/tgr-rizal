@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizal
-- 👀 I’m interested in human, i can eat them well
-- 🌱 I’m currently learning some stuff and just get deep into
-- 💞️ I’m looking to collaborate on anything, as long it’s make me interesting.
+- 👀 I’m interested in Tech, but i'm sucks at Math :"
+- 🌱 I’m currently learning more stuff and get lost
+- 💞️ -> Sign i have heart and alive
 - 📫 How to reach me ping on my slack or mail me!!
 
 <!---
